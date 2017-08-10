@@ -1,6 +1,6 @@
 name: ovn
 summary: SDN via OVN
-maintainer: Aakash <aakashkt0@gmail.com> <aakash.kt@research.iiit.ac.in>
+maintainer: Aakash <aakashkt0@gmail.com>
 description: |
   Overlay networking via OVN and OVS
 tags:
